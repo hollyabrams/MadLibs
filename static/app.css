@@ -1,0 +1,30 @@
+li {
+    margin-left: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: white
+}
+
+ul {
+    background-color: black;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+#content {
+    margin: 40px;
+}
+
+img {
+    margin-top: 20px;
+}
